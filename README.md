@@ -24,7 +24,7 @@ Acceptance Criteria
 
 * [Screenshot](#Screenshot)
 * [Live Url](#Live)
-* [Repository Url](#Repositiory)
+* [Repository Url](#Repository)
 * [License](#License)
 
 
