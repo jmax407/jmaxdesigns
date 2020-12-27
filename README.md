@@ -23,9 +23,9 @@ Acceptance Criteria
 ## Table of Contents (Optional)
 
 * [Screenshot](#Screenshot)
-* [Live Url](#live)
-* [Repository Url](#repositiory)
-* [License](#license)
+* [Live Url](#Live)
+* [Repository Url](#Repositiory)
+* [License](#License)
 
 
 ## Screenshot 
@@ -35,7 +35,7 @@ Screenshot of final web page
 ![Julius Portfolio Website](images/screenshot.png)
 
 
-## live
+## Live
 
 Live URL of site
 
